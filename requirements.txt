@@ -3,6 +3,7 @@ torchvision
 opencv-python-headless
 streamlit
 streamlit-webrtc
+tornado==6.4
 av
 pillow
 numpy
