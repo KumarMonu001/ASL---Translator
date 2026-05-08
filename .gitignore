@@ -1,0 +1,15 @@
+# .gitignore
+
+# Datasets & Images
+datasets/
+inferences/
+
+# Machine Learning Weights
+*.pth
+*.pt
+*.h5
+
+# Python Caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
